@@ -1,1 +1,2 @@
 This is a test. WE are using git.
+This is another change to this file.
